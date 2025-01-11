@@ -3,8 +3,8 @@
     Chapter case
 
     Tinley Xeriscapes
-    Author: 
-    Date:   
+    Author: John Kuronya
+    Date: 1/6/25
 
     Filename: js01b.js
 */
